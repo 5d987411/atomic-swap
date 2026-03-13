@@ -1,4 +1,5 @@
-# Stroemnet - Kaspa ↔ ETH Atomic Swap
+# Kaspa ↔ ETH Atomic Swap (based on the Stroemnet whitepaper)
+AI testing... so far, 5/10 coding for new ideas. 
 
 A production-grade Kaspa ↔ Ethereum atomic swap webapp based on the Stroemnet protocol.
 
